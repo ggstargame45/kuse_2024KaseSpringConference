@@ -1,0 +1,431 @@
+sudo apt remove ibus ibus-hangul
+sudo apt install fcitx fcitx-hangul
+sudo nano /etc/default/im-config
+sudo apt remove ibus ibus-hangul
+sudo apt install fcitx fcitx-hangul
+sudo nano /etc/default/im-config
+sudo reboot
+sudo apt-get fonts-unfonts-core
+sudo apt-get fonts-unfonts-extra
+sudo apt-get install ibus
+sudo apt-get install ibus-hangul
+sudo reboot
+sudo apt update
+sudo apt upgrade
+sudo apt install ibus ibus-hangul
+sudo apt install fonts-nanum fonts-uunfonts-core
+sudo reboot
+sudo apt install fonts-unfonts-core
+sudo reboot
+sudo raspi-config
+sudo reboot
+sudo vi /boot/config.txt
+sudo raspi-config
+sudo reboot
+sudo vi /boot/config.txt
+sudo apt-get install can-utils
+sudo reboot
+dmesg | grep -i spi
+dmesg | grep -i can
+sudo ip link set can0 up type can bitrate 250000
+sudo ifconfig
+sudo vi /etc/network/interfaces
+sudo ifconfig
+sudo shutdown now
+sudo apt-get update
+sudo apt-get upgrade
+sudo reboot
+sudo list
+ls
+ls -al
+python3 /home/pi/my_code.py
+vi run_script.sh
+sudo shutdown now
+[200~sudo ip link set can0 up type can bitrate 500000 dbitrate 5000000 fd on~
+sudo ip link set can0 up type can bitrate 500000 dbitrate 5000000 fd on
+sudo cancump can0
+sudo candump can0
+candump can0
+sudo candump can0
+cansend can0
+can send can0
+ifconfig
+sudo cansend can0 123
+sudo cansend can0
+sudo cansend can0 123#111
+sudo cansend can0 123##1
+sudo cansend can0 123#1
+sudo cansend can0
+sudo cansend can0 
+sudo cansend can0 123#FF
+sudo cansend can0 123#AA
+sudo cansend can0 
+sudo cansend can0 00#AA
+sudo cansend can0 010#AA
+sudo ip link set can0 up type can bitratre 250000
+sudo ip link set can0 up type can bitrate 250000
+sudo cansend can0 010#AA
+sudo cansend can0 010#AA#
+sudo cansend can0 010#AA
+sudo ip link set can0 up type can bitrate 80000
+sudo ip link set can0 down
+ifconfigf
+ifconfig
+sudo ip link set can0 up type can bitrate 250000
+sudo cansend can0 010
+sudo cansend can0 010#AAF
+sudo cansend can0  123#DEADBEEF 
+sudo cansend can0 
+sudo cangen can0
+sudo cansend can0  123#1122334455
+ifconfig
+sudo reboot
+candump can0
+ifocnfig -a
+ifconfig -a
+candump can0
+ifconfig can0 downb
+ifconfig can0 down
+sudo ifconfig can0 down
+ifconfig
+ip link set can0 up type can bitrate 500000
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+candump can0
+cansniffer can0
+can sniffer can0
+cansniffer can0
+python3 --version
+python
+python3
+sudo cansend can0 123#1122334455
+ls
+python3
+nano helloworld.py
+python3 helloworld.py 
+nano sniffing.py
+sudo candump can0
+pip install --pre scapy[basic]
+sudo apt-get install python3-venv
+sudo pip install scapy
+sudo apt-get install python3-pip
+sudo pip3 install scapy
+sudo pip3 install --upgrade pip
+sudo apt-get install python3-matplotlib python3-numpy python3-pyx python3-pypcap python3-pygraphviz
+sudo apt-get install libpcap-dev
+sudo pip3 install scapy
+sudo apt-get update
+sudo apt-get install python3-scapy
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+python3 sniffing.py
+chmod +x sniffing.py
+1s -1 sniffing.py
+nano sniff.py
+python3 sniff.py
+sudo python3 sniff.py
+chmod +x sniff.py
+sudo python3 sniff.py
+nano sniff.py
+python3 sniff.py
+nano sniff.py
+python3 sniff.py
+nano sniff.py
+python3 sniff.py
+sudo sniff.py
+sudo python3 sniff.py
+sudo setcap cap_net_raw=eip $(readlink -f $(which python3))
+python3 sniff.py
+nano sniffing.py
+sudo python3 sniff.py
+nano sniffing.py
+pip install python-can
+sudo apt-get update
+sudo apt-get install python3-can
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+python3 sniffing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+nano sniffing.py
+python3 sniffing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoogin.py
+n
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+python3 sniffing.py
+python3 spoofing.py
+python3 sniffing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+python3 sniffing.py
+nano spoofing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+python3 sniffing.py
+python3 spoofing.py
+nano spoofing.py
+python3 spoofing.py
+sudo shutdown now
+nano spoofing.py
+sudo shutdown now
+sudo get update
+sudo update
+date
+hosthome
+hostname
+ls
+clear
+pwd
+apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+sudo reboot
+nano sniffing.py
+python3 sniffing.py
+nano sniffing.py
+nano sniff.py
+python3 spoofing.py
+sudo cabdump can0
+sudo candump can0
+sudo can 
+sudo candump can0
+python3 spoofing.py
+candump can0
+sudo ip link set cna0 up type can bitrate 9600
+sudo ip link set can0 up type can bitrate 9600
+sudo nano /etc/network/interfaces
+candump can0
+python3 spoofing.py
+python3 sniffing.py
+nano sniffing.py
+nano spoofing.py
+clear
+candump can0
+ifconfig
+sudo reboot
+sudo candump can0
+sudo ip link set can0 type can bitrate 250000
+ip link show
+cansniffer can0
+candump can0
+ifconfig
+ip limk set can0 down
+ip link set can0 down
+ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+candump can0
+sudo candump can0
+sudo ip link set can0 down
+ip link set can0 up type can bitrate 250000
+clear
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+sudo candump can0
+cansniffer can0
+sudo ip link set can0 type can bitrate 250000
+sudo ifconfig can0 up
+sudo candump can0
+cansniffer can0
+sudo candump can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+sudo candump can0
+python3 sniffing.py
+python3 spoofing.py
+nano replay.py
+python3 replay.py
+nano replay.py
+python3 replay.py
+nano replay.py
+python3 replay.py
+nano replay.py
+nano dos.py
+python3 dos.py
+sudo shutdown now
+sudo reboot
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+nano replay.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+nano dos.py
+python3 dos.py
+python3 snffing.py
+python3 sniffing.py
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python3 snffing.py
+python3 sniffing.py
+python3 dos.py
+sudo apt install ufw
+sudo ufw status
+sudo ufw enable
+sudo ufw allow 2
+sudo ufw allow 22
+ifconfig
+passwd
+ping google.com
+sudo wifite
+sudo shutdown now
+ifconfig
+ping 
+hostname -i
+ifconfig
+hostname -l
+hostname -i
+sudo ufw status
+reboot
+exiy
+exit
+ping 8.8.8.8
+sudo ufw deny 22
+sudo ufw status
+sudo u
+sudo ufw status
+sudo ufw enable
+sudo ufw status
+sudo ufw deny 2
+sudo ufw allow 22
+sudo ufw status
+reboot
+sudo ufw stadus
+sudo ufw status
+ifconfig
+ping 8.8.8.8
+sudo reboot
+sudo shutdown now
+sudo reboot
+ping 8,8,8,8
+ping 8.8.8.8
+ifconfig
+sudo shutdown now
+ifconfig
+sudo shutdown now
+cd project/
+python3 send.py
+cansend can0 999£11223344
+cansend can0 999{}~?>:@@11223344
+cd ..
+cansend can0 123#DEADBEEF
+sudo cansend can0 123#11223344
+sudo cansend can0 001#11223344
+sudo cansend can0 123#11223344
+sudo cansend can0 123#DEADBEEF
+cansend can0 123#DEADBEEF
+cansend can0 12#DEADBEEF
+cansend can0 123#DEADBEEF
+ifconfig
+cansend can0 123#DEADBEEF
+cd project/
+python3 send.py 
+cd project/
+python3 receive.py 
+cd project/
+python3 receive.py 
+cd ..
+canduomp can0
+candump can0
+ifconfig
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+sudo candump can0
+candump can0
+candump can0 123#DEADBEEF
+candump can0
+ip -d -s link show can0
+candump can0
+sudo chutdown now
+sudo shutdown now
+cd project/
+python3 send.py 
+vi send.py 
+python3 send.py 
+sudo shutdown now
+candump can0
+cd project/
+python3 send.py 
+ifconfig
+vim send.py 
+nano send.py 
+python3 send.py 
+nano send.py 
+python3 send.py 
+nano send.py 
+python3 send.py 
+nano send.py 
+python3 send.py 
+nano send.py 
+candump can0
+cd project/
+python3 receive.py 
+candumo can0
+candump can0
+nano kang.py
+python kang.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python kang.py 
+candump can0
+sudo shutdown now
+candump can0
+ifconfig
+cd project/
+mv send.py node2.py
+ls
+python3 node2.py 
+vi EX_recv.py
+python EX_recv.py 
+ls
+cd project/
+ls
+python node2.py 
+cd project/
+ls
+python node2.py 
+ifconfig
+down
+system down
+candump can0
+sudo shuydown now
+sudo shutdown now
+candump can0
