@@ -1,0 +1,233 @@
+sudo apt remove bus bus
+a
+c
+v
+afkl
+apt
+sudo raspi-config
+sudo reboot
+sudo v /boot/conf.txt
+apt
+sudo vi /boot/config.txt
+sudo apt-get install can-utils
+sudo reboot
+dmesg ~ grep -i spi
+dmesg | grep -i spi
+dmesg | grep -i can
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 80000
+sudo vi /etc/network/interfaces
+sudo ifconfig
+sudo shutdown
+sudo shutdown -c
+sudo ifconfig
+sudo ip link set can0 down
+sudo ifconfig
+sudo ip link set can0 up type can bitrate 80000
+sudo ifconfig
+sudo shutdown now
+nano spoofing py
+sudo shut down now
+sudo shutdown now
+sudo apt install nmap
+nmap -sS 192.168.0.0
+sudo nmap -sS 192.168.0.0
+sudo nmap -sS 192.168.0.76
+ssh -l kuse -p 22 192.168.0.76
+kuse1234
+ssh -l kuse -p 22 192.168.0.76
+shutdown now
+ifconfig
+candump can0
+sudo ip link set can0 down
+ifconfig
+ifconfig -a
+sudo ip link set can0 up type can bitrate 500000
+ifconfig 
+candump can0
+nano spoofing.py
+cansniffer can0
+candump can0
+nano spoofing.py
+python spoofing.py
+nano spoofing.py
+python spoofing.py
+nano spoofing.py
+python spoofing.py
+nano spoofing.py
+python spoofing.py
+nano spoofing.py
+nano dos.py
+python dos.py
+nano dos.py
+python dos.py
+nano dos.py
+python dos.py
+nano replay.py
+python dos.py
+nano replay.py
+can sniffer
+cansniffer can0
+candump can0
+python dos.py
+nano dos.py
+nano replay.py
+python replay.py
+nano replay.py
+nano dos.py
+python replay.py
+nano dos.py
+nano replay.py
+python replay.py
+nano replay.py
+python replay.py
+nano replay.py
+python replay.py
+nano replay.py
+python replay.py
+nano replay.py
+python replay.py
+nano replay.py
+sudo su
+passwd
+sudo apt install
+reboot
+sudo su
+candump can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+candump can0
+phthon dos.py 
+python dos.py 
+pwd
+shutdown now
+sudo shutdown now
+ifconfig
+~~~~~2346547
+'[E
+sudo ufw status
+systemctl service start ssh
+systemctl
+systemctl start ssh
+passwd
+systemctl start ssh
+ifconfig
+sudo ufw status
+ifconfig
+ifconfig
+sudo reboot
+sudo shutdown now
+ls
+cd Do
+cd Downloads/
+ls
+sudo apt install ./code_1.87.2-1709912201_amd64.deb 
+python
+which python
+where python
+where pip
+which pip
+which python
+which pip3
+pip3 install cantools
+can0
+can
+cd ..
+cd Desktop/
+ls
+python testdh.py
+sudo ifconfig
+candump can0
+candump vcan0
+cansend 999#DEADBEEF
+cansend can0 999#DEADBEEF
+ifconfig
+cansend vcan0 999#DEADBEEF
+sudo ip link add dev vcan0 type vcan
+ifconfig -a
+sudo ifconfig vcan0 up
+cansend vcan0 999#DEADBEEF
+sudo ip link add dev vcan1 type vcan
+sudo ifconfig vcan1 up
+sudo modprobe can-gw
+sudo cangw -A -s vcan0 -d vcan1 -e
+sudo cangw -A -s vcan1 -d vcan0 -e
+cansend vcan1 999#DEADBEEF
+python testdh.py 
+l
+ls
+cd Downloads/
+ls
+rm code_1.87.2-1709912201_amd64.deb 
+ls
+cd ..
+cd Downloads/
+ls
+sudo apt install ./code_1.87.2-1709911730_arm64.deb 
+code
+ifconfig
+candump can0
+sudo ip link set can0 down
+ifconfig
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+candump can0
+/bin/python /home/kuse/Downloads/decryption_receive.py
+nano sender.py
+python3 sender.py 
+nano sender.py 
+python3 sender.py 
+sudo ifconfig can0 down
+sudo ip link set can0 type can bitrate 500000
+sudo ifconfig can0 on
+sudo ifconfig can0 up
+python3 sender.py 
+sudo python3 sender.py 
+ifconfig
+sudo python3 sender.py 
+ip -details link show can0
+sudo python3 sender.py 
+ifconfig
+ip -details link show can0
+sudo ifconfig can0 down
+sudo ifconfig can0 up
+sudo python3 sender.py 
+sudo ifconfig can0 down
+sudo python3 sender.py 
+sudo ifconfig can0 up
+sudo python3 sender.py 
+sudo ifconfig can0 down
+sudo ifconfig can0 up
+sudo python3 sender.py 
+ip -details link show can0
+sudo candump can0
+/bin/python /home/kuse/2024_spring/decryption_receive.py
+/bin/python /home/kuse/2024_spring/decryption_receive_key_regeneration.py
+/bin/python /home/kuse/Downloads/decryption_receive.py
+/bin/python /home/kuse/2024_spring/decryption_receive_key_regeneration.py
+/bin/python /home/kuse/Downloads/decryption_receive.py
+/bin/python /home/kuse/2024_spring/decryption_receive_key_regeneration.py
+ls
+mkdir project
+cd project/
+vi node2.py
+python node2.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+candump can0
+ifconfig
+candump can0
+shutdown now
+ls
+cd Pro
+cd project/
+ls
+vim node2.py
+nano node2.py 
+python3 node2.py 
+sudo ip link set can0 down
+sudo ip linkset can0 up type can bitrate 500000
+sudo ip link set can0 up type can bitrate 500000
+python3 node2.py 
