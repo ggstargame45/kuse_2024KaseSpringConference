@@ -1,0 +1,480 @@
+python
+python2
+python3
+g++
+ls
+gedit
+sudo raspi-config
+sudo reboot
+sudu vim /boot/config.txt
+sudo apt-get vim
+sudo apt install vim
+sudo vim /boot/config.txt
+sudo apt-get install can-utils
+sudo apt-get install vim
+sudo reboot
+dmesg | grep -i spi
+dmesg | grep -i can
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo vim /etc/network/interfaces
+sudo reboot
+sudo ifconfig
+ls
+cd Desktop/
+ls
+sudo ifconfig >> ifconfig.txt
+gedit
+sudo apt-get install gedit
+gedit ifconfig.txt 
+/bin/python /home/kuse/Desktop/test.py
+pwd
+python3
+python3 test.py
+cat > test4.py
+cat test4.py 
+python3 test4.py
+python3 test.py
+python3 test.py >> test.txt
+cat test.txt
+ls
+mkdir test1
+ls
+pwd
+cd test1
+pwd
+mkdir test2.txt
+pwd
+cat test3.txt
+cat > test3.txt
+ls
+cat test3.txt 
+rm test3.txt
+rm test2.txt
+pwd
+ls
+rmdir test2.txt
+ls
+Python3
+python3
+ls
+pwd
+python3
+df -m
+df
+ls
+cd ..
+cd Downloads/
+ls
+sudo apt install ./code_1.85.2-1705561292_amd64.deb 
+cat /proc/version
+uname -i
+uname 0a
+uname -a
+getconf LONG_BIT
+sudo apt install code
+code
+vcan
+python3
+clean
+clear
+candump
+clear
+candump
+candump any, 0:0
+clear
+candump vcan0, 0x00
+candump vcan0, 0x00:0x7FF
+clear
+candump -c -c -ta vcan0 &
+clear
+candump can0
+clear
+candump can0
+clear
+candump can0
+candump#
+candump
+candump -l
+candump -l any
+ls
+cat candump-2024-01-25_042556.log 
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+clear
+candump -l can0
+cat candump-2024-01-25_04
+cat candump-2024-01-25_043055.log
+candump can0
+candump -l can0
+candump -h
+cat candump-2024-01-25_043055.log
+cansend can0 456£00FFAA5501020304
+cansend can0 456#00FFAA5501020304
+at12212££"!""£$!""££"""£$$%%^^&^&**(()__+~
+}~~}~}~{{}@:@:@<>
+
+candump can0
+code
+cansend can0 456#00000000
+cansend can0 111#1212121212
+pip install python-can
+candump can0
+clear
+candump can0
+cansend can0 456#00FFAA5501020304
+pip3
+pip3 install keyboard
+sudo pip3 install keyboard
+sudo pip install keyboard
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+sudo pip3 install keyboard
+python3 can_sending.py 
+sudo python3 can_sending.py 
+clear
+sudo python3 can_sending.py 
+sudo python3 can_sending2.py
+sudo python3 can_sending.py clear
+clear
+pip install python-can
+sudo python3 can_sending2.py
+pip install python-can
+candump can0
+sudo python3 can_sending2.py
+sudo python3 can_sending.py
+/bin/python /home/kuse/Desktop/test4.py
+vim some.py
+cat some.py
+vim some.py
+candump can0
+candump can0 >> can_log.txt
+candump can0
+sudo python3 test4.py
+sudo python3 can_sending.py
+sudo python3 test4.py
+pip install python-can
+sudo python3 test4.py
+pip install python3-can
+pup install python-can
+pip install python-can
+sudo pip install python-can
+sudo python3 test4.py
+sudo python3 can_sending.py
+sudo python3 test4.py
+sudo pip install asyncio
+sudo python3 test5.py
+sudo python3 test6.py
+sudo python3 test4.py
+/bin/python /home/kuse/Desktop/test4.py
+/bin/python /home/kuse/Desktop/test7.py
+ls
+pwd
+ls
+cat test4
+cd test1
+cat
+candump vcan0
+clear
+rm test.txt
+ls
+pwd
+cd
+ls
+pwd
+rm test1
+rm test.txt
+candump vcan0
+candump can0 >> can_log.txt
+sudo python3 test7.py
+ls
+pwd
+candump can0
+sudo python3 test6.py
+pwd
+ls
+cd Desktop
+ls
+sudo python3 test6.py
+sudo python3 can_sending.py
+sudo python3 can_replay.py
+clear
+candump can0
+candump can0
+/usr/bin/python /home/kuse/Desktop/can_replay.py
+sudo python3 can_replay.py
+/usr/bin/python /home/kuse/Desktop/can_replay.py
+clear
+/usr/bin/python /home/kuse/Desktop/can_replay.py
+sudo python3 test4.py
+/usr/bin/python /home/kuse/Desktop/can_replay.py
+sudo python3 can_replay.py
+sudo python3 test6.py
+candump can0
+candump can0#
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+candump can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+candump can0
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304c
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304c
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 type can bitrate 250000 loopback on
+sudo ip link set can0 up
+cansend can0 123#01020304
+ip -d -s link show dev can0
+cansend can0 123#0102030405
+cansend can0 123#010203040506
+sudo ip link set can0 down
+sudo ip link set can0 type can bitrate 250000
+sudo ip link set can0 up
+cansend can0 123#010203040506
+sudo ip link set can0 up
+ip -d -s link show dev can0
+cansend can0 123#010203040506
+cansend can0 456#00FFAA5501020304c
+cansend can0 456#00FFAA5501020304
+cansend can0 456#00FFAA55010203
+cansend can0 456#00FFAA550102030
+cansend can0 456#00FFAA5501020304
+cansend can0 456#00FFAA55010203
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000 loopback off
+ip -d -s link show dev can0
+cansend can0 456#00FFAA5501020304
+ip -d -s link show dev can0
+candump can0
+ifconfig
+sudo su
+shutdown now
+sudo raspi-config
+ipconfig
+hostname -I
+sudo#
+sudo
+sudo mkdir
+sudo mkdir testing
+passwd pi
+ifconfig
+ls
+cd Desktop/
+code
+mkdir testssh
+rmdir testssh
+vim testssh.txt
+rm testssh.txt
+ls
+ifconif
+ifconfig
+quit() :
+exit
+cd /etc/ssh
+ls
+vim sshd_config
+sudo vim sshd_config
+systemctl restart sshd
+passwd
+vim sshd_config
+sudo vim sshd_config
+systemctl restart sshd
+sudo vim sshd_config
+sudo gedit sshd_config
+cd
+sudo chmod 600 ~/.ssh/id_rsa
+vim sshd_config
+ls
+ifconfig
+cd /etc/ssh
+sudo nano sshd_config
+sudo gedit sshd_config
+sudo vim sshd_config
+systemctl restart sshd
+ls
+cd
+ls -ld
+chmod 0700 /home/kuse/
+ls -ld
+chmod 0700 /home/kuse/.ssh
+hostname -I
+sudo vim /etc/hostname
+ping
+sudo systemctl status ssh
+ssh -v
+ssh -V
+telnet 192.168.0.12
+telnet 192.168.0.12 22
+nc -l 22
+netcat
+sudo apt-get netcat
+sudo apt-get install netcat
+sudo apt-get install netcat-traditional
+nc -l 22
+ssh -V
+sudo systemctl restart ssh
+ssh -V
+ls
+cd Desktop/
+mkdir testssh
+rmdir testssh
+exit
+ifconfig
+nmap 192.168.0.12
+exit
+ls
+cd Desktop
+touch success1.txt
+exit
+ls
+exit
+cansend can0 123#11223344AABBCCDD
+sudo apt-get install can-utils
+cansend can0 123#11223344AABBCCDD
+candump can0
+cansend can0 123#11223344AABBCCDD
+cansend can0 456#00FFAA5501020304
+candump can0
+ifconfig
+cansend can0 123#010203040506
+ip -d -s link show dev can0
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 250000
+ip -d -s link show dev can0
+cansend can0 123#010203040506
+ip -d -s link show dev can0
+cansend can0 123#010203040506
+cansend can0 123#010203040599
+cansend can0 456#00FFAA5501020304
+sudo python3 can_sending.py
+ls
+cd Desktop
+ls
+sudo python3 can_sending.py
+[A
+sudo python3 can_sending.py
+sudo python3 can_sending2.py
+ls
+exit
+candump can0
+/usr/bin/python
+sudo python3 can_send.py
+/usr/bin/python /home/kuse/Desktop/can_send.py
+sudo python3 can_send.py
+/usr/bin/python /home/kuse/Desktop/can_send.py
+sudo python3 can_send.py
+/usr/bin/python /home/kuse/Desktop/can_send.py
+sudo python3 can_send.py
+cd
+sudo python3 can_sending.py
+cd Desktop
+sudo python3 can_sending.py
+sudo reboot
+candump can0
+ls
+mkdir project
+cd project/
+python node
+ifconfig
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+python node1.py 
+clear
+python node1.py 
+vi EX_123.py
+python node1.py 
+python EX_123.py 
+ifconfig
+python EX_123.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+python EX_123.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python EX_123.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+clear
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+ifconfig
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 500000
+python node1.py 
+clear
+python node1.py 
