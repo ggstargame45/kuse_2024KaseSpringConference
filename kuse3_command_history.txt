@@ -1,0 +1,182 @@
+sudo apt-get update 
+sudo apt-get upgrade 
+sudo apt-get install fonts-unfonts-core 
+sudo apt-get fonts-unfonts-extra
+sudo apt-get install fonts-unfonts-extra 
+sudo apt-get install ibus
+sudo apt-get install ibus-hangul \
+sudo apt-get install ibus-hangul
+reboot
+sudo raspi-config 
+sudo reboot
+sudo nano /boot/config.txt
+sudo apt-get install can-utils 
+sudo reboot
+dmesg | grep -i spi
+dmesg | grep -i can
+sudo ip link set can0 up type can bitrate 250000
+sudo ip link set can0 down 
+sudo vi /etc/network/interfaces
+sudo nano /etc/network/interfaces
+source ~/.bashrc
+sudo nano /etc/network/interfaces
+clear
+ls
+ls -h
+ls -help
+ls --help
+ls
+sudo ifconfig
+can0
+sudo can0
+sudo ip link set can0 up type can bitrate 250000
+sudo ifconfig
+/bin/python /home/kuse3/can_sniffing.py
+/bin/python /home/kuse3/can_sniffing.py
+/bin/python "/home/kuse3/import os.py"
+mkdir KUSE_winter
+/bin/python /home/kuse3/KUSE_winter/can_replay.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+sudo ip link set can0 up type can bitrate 500000
+sudo ip link set can0 down 
+sudo ip link set can0 up type can bitrate 500000
+ifconfig 
+candump can0
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing.py
+sudo ip link set can0 down 
+sudo ip link set can0 up type can bitrate 500000
+candump can0
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing_update.py
+sudo ip link set can0 down 
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+candump can0
+sudo nano /etc/network/interfaces
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_replay.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing_update.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing.py
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_replay.py
+/bin/python /home/kuse3/KUSE_winter/can_replay_send.py
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing_update.py
+/bin/python /home/kuse3/KUSE_winter/can_dos.py
+/bin/python /home/kuse3/KUSE_winter/can_fuzzing_update.py
+sudo ip link set can0 type can bitrate 100000
+sudo ifconfig can0 up
+/bin/python /home/kuse3/KUSE_winter/can_sniffing.py
+ifconfig
+candump can0
+ifconfig
+sudo ip link set can0 down 
+sudo ip link set can0 up type can bitrate 500000
+ifconfig
+sudo ssh hanbin@192.168.0.33
+ls
+cd KUSE_winter/
+python3 can_spoofing.py 
+ls
+cd KUSE_winter/
+ls
+python3 can_spoofing.py 
+ls
+cd KUSE_winter/
+ls
+python3 can_spoofing.py 
+cd KUSE_winter/
+python3 can_sniffing.py 
+python3 can_spoofing.py 
+users
+systemctl status sshd
+systemctl status ssh
+systemctl restart ssh
+systemctl status ssh
+python3 can_spoofing.py 
+candump can0
+/bin/python /home/kuse3/KUSE_winter/can_spoofing.py
+/bin/python /home/kuse3/KUSE_winter/encryption.py
+ls
+dkdh dlep wlsWkn djfuqsp
+sudo shutdown
+sudo shutdown now
+candump can0
+ifconfig
+candump can0
+cansend can0 123#11223344
+cansend can0 123#1122334455667788
+cansend can0 123#11223344
+sudo ip link can0 douwn
+sudo ip link can douwn
+sudo ip link set can0 down
+sudo ip link set can0 type can bitrate 500000
+ifconfig
+sudo ip link set can0 type can bitrate 500000
+ifconfig
+sudo reboot
+ifconfig
+mkdir project
+cd project/
+vi node1.py
+ls
+python3 node1.py 
+vi EX_send.py
+python EX_send.py 
+vi EX_send.py
+python EX_send.py 
+/bin/python /home/kuse3/project/send_message.py
+/bin/python /home/kuse3/project/EX_send.py
+/bin/python /home/kuse3/project/send_message.py
+/bin/python /home/kuse3/Downloads/encryption_send.py
+/bin/python "/home/kuse3/Downloads/encryption_send (1).py"
+/bin/python /home/kuse3/project/send_message.py
+/bin/python "/home/kuse3/Downloads/encryption_send (1).py"
+candump can0
+/bin/python "/home/kuse3/Downloads/encryption_send (1).py"
+cd Downloads/
+python3 encryption_send (1).py
+source setup.bash
+cd
+cd Downloads/
+python3 encryption_send_final.py
+/bin/python /home/kuse3/Downloads/encryption_send_final.py
+/bin/python /home/kuse3/2024_spring/encryption_send.py
+/bin/python /home/kuse3/2024_spring/encryption_send_key_regeneration.py
+/bin/python /home/kuse3/2024_spring/encryption_send.py
+/bin/python /home/kuse3/2024_spring/encryption_send_key_regeneration.py
+candump can0
+shutdown now
+cd project/
+vi node1.py 
+python node1.py 
